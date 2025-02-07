@@ -13,4 +13,5 @@ Encoding: UTF-8
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
-BuildType: Website
+BuildType: Custom
+CustomScriptPath: build.bat

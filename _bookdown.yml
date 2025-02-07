@@ -1,20 +1,5 @@
 book_filename: livro-receitas
 delete_merged_file: true
-rmd_files:
-- index.Rmd
-- entradas_snackssalgados.Rmd
-- sopas.Rmd
-- carnes.Rmd
-- ovos.Rmd
-- peixes.Rmd
-- vegetariano.Rmd
-- acompanhamentos.Rmd
-- molhos.Rmd
-- sobremesas.Rmd
-- bolos_bolachas.Rmd
-- bebidas.Rmd
-- pequenoalmoco_sancksdoces.Rmd
-- pao_massas.Rmd
 output_dir: docs
 language:
   ui:

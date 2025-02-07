@@ -1,2 +1,2 @@
 # (PART\*) Pratos Principais {-}
-# Peixes {-}
+# Acompanhamentos {-}
