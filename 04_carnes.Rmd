@@ -1,6 +1,6 @@
 # Carnes {.unnumbered}
 
-## Strogonoff
+## Strogonoff {.unnumbered}
 
 **Fonte:** Continente (The Healthy Sins)
 
