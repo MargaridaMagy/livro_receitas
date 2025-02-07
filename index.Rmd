@@ -14,7 +14,7 @@ Este livro de receitas foi escrito por Margarida Máximo e pretende ser um repos
 
 Abaixo encontra-se o modelo de receita que deve ser copiado e colado.
 
-## Modelo Receita
+## Modelo Receita {.unnumbered}
 
 **Fonte:**
 
@@ -28,7 +28,7 @@ Abaixo encontra-se o modelo de receita que deve ser copiado e colado.
 
 **Avaliação:**
 
-### Ingredientes:
+### Ingredientes: {.unnumbered}
 
 -   
 
@@ -36,7 +36,7 @@ Abaixo encontra-se o modelo de receita que deve ser copiado e colado.
 
 -   
 
-### Preparação:
+### Preparação: {.unnumbered}
 
 1.  
 
@@ -44,6 +44,6 @@ Abaixo encontra-se o modelo de receita que deve ser copiado e colado.
 
 3.  
 
-### Notas:
+### Notas: {.unnumbered}
 
 1.  

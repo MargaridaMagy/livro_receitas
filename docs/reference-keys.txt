@@ -1,7 +1,0 @@
-modelo-receita
-ingredientes
-preparação
-notas
-strogonoff
-ingredientes-1
-preparação-1

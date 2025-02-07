@@ -14,7 +14,7 @@
 
 **Avaliação:** ⭐⭐⭐⭐⭐
 
-### Ingredientes:
+### Ingredientes: {.unnumbered}
 
 -   500 g de peito de frango
 -   100 g de cogumelos
@@ -28,7 +28,7 @@
 -   Pimenta q.b.
 -   Cebolinho fresco q.b.
 
-### Preparação:
+### Preparação: {.unnumbered}
 
 1.  Corte o frango em tiras finas e tempere-os com sal e pimenta a gosto e reserve.
 
