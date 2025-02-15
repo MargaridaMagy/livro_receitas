@@ -32,7 +32,7 @@
 3.  Retirar a panela do lume e, com a ajuda de uma varinha mágica, triturar a sopa.
 4.  Regar com um fio de azeite.
 
-## Creme de Legumes sem Batata
+## Creme de Legumes sem Batata {.unnumbered}
 
 **Fonte:** Gastrotecnia
 
@@ -65,7 +65,7 @@
 3.  Retirar a panela do lume e, com a ajuda de uma varinha mágica, triturar a sopa.
 4.  Regar com um fio de azeite.
 
-## Sopa com Batata (Creme de Legumes)
+## Sopa com Batata (Creme de Legumes) {.unnumbered}
 
 **Fonte: Gastrotecnia**
 
@@ -103,7 +103,7 @@
 
 1.  
 
-## Sopa de Abóbora Cremosa
+## Sopa de Abóbora Cremosa {.unnumbered}
 
 **Fonte:** [Made by Choices](https://madebychoices.pt/sopa-de-abobora-cremosa/)
 
@@ -142,7 +142,7 @@
 
 1.  
 
-## Sopa de Ervilhas com Legumes
+## Sopa de Ervilhas com Legumes {.unnumbered}
 
 **Fonte:** [Made by Choices](https://madebychoices.pt/sopa-de-ervilhas-com-legumes/)
 
@@ -224,7 +224,7 @@
 
 1.  
 
-## Sopa de Gengibre, Abóbora e Batata-Doce
+## Sopa de Gengibre, Abóbora e Batata-Doce {.unnumbered}
 
 **Fonte:** [Made by Choices](https://madebychoices.pt/sopa-de-gengibre-abobora-e-batata-doce/)
 
@@ -269,7 +269,7 @@
 
 1.  Em vez de água podem substituir por 2 chávenas de leite vegetal que fica mais cremoso.
 
-## Sopa de Legumes
+## Sopa de Legumes {.unnumbered}
 
 **Fonte:** Gastrotecnia
 
