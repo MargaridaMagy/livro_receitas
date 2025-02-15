@@ -1,2 +1,0 @@
-# (PART\*) Pratos Principais {-}
-# Peixes {-}
