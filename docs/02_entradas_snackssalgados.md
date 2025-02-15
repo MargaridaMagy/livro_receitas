@@ -32,7 +32,7 @@
 5.  Misturar tudo, temperar com o sumo de limão, sal e azeite.
 6.  Servir de imediato ou conservar no frigorífico (2 dias).
 
-## Húmus de Beterraba
+## Húmus de Beterraba {.unnumbered}
 
 **Fonte:** Gastrotecnia
 
@@ -48,19 +48,19 @@
 
 ### Ingredientes: {.unnumbered}
 
--    200 g grão-de-bico já cozido
--    1 beterraba já cozida
--    1 dente alho
--    10 g Azeite
--    q.b. pimenta preta
+-   200 g grão-de-bico já cozido
+-   1 beterraba já cozida
+-   1 dente alho
+-   10 g Azeite
+-   q.b. pimenta preta
 
 ### Preparação: {.unnumbered}
 
-1.   Num recipiente, junte o grão-de-bico, a beterraba, o azeite, o dente de alho (cru) e a pimenta preta.
+1.  Num recipiente, junte o grão-de-bico, a beterraba, o azeite, o dente de alho (cru) e a pimenta preta.
 2.  Triture a mistura com varinha mágica na velocidade máxima até obter consistência de pasta.
 3.  Servir de imediato ou conservar no frigorífico (2 dias).
 
-## Húmus de Pimentos
+## Húmus de Pimentos {.unnumbered}
 
 **Fonte:** Gastrotecnia
 
@@ -88,7 +88,7 @@
 
 1.  Lavar bem o pimento e descascar os dentes de alho.
 2.  Num tabuleiro de forno, dispor o pimento cortado em quartos e os dentes de alho.
-3.   Temperar com um fio de azeite.
+3.  Temperar com um fio de azeite.
 4.  Assar no forno a 180ºC, durante 20-30 minutos.
 5.  Após arrefecer, retire a pele do pimento.
 6.  Num recipiente, junte o grão-de-bico, o sumo do limão, o pimento assado e os dentes de alho (assados), o pimentão doce e a pimenta preta.
@@ -112,13 +112,17 @@
 ### Ingredientes: {.unnumbered}
 
 -   
+
 -   
+
 -   
 
 ### Preparação: {.unnumbered}
 
 1.  
+
 2.  
+
 3.  
 
 ### Notas: {.unnumbered}
@@ -142,13 +146,17 @@
 ### Ingredientes: {.unnumbered}
 
 -   
+
 -   
+
 -   
 
 ### Preparação: {.unnumbered}
 
 1.  
+
 2.  
+
 3.  
 
 ### Notas: {.unnumbered}
@@ -172,13 +180,17 @@
 ### Ingredientes: {.unnumbered}
 
 -   
+
 -   
+
 -   
 
 ### Preparação: {.unnumbered}
 
 1.  
+
 2.  
+
 3.  
 
 ### Notas: {.unnumbered}
@@ -202,13 +214,17 @@
 ### Ingredientes: {.unnumbered}
 
 -   
+
 -   
+
 -   
 
 ### Preparação: {.unnumbered}
 
 1.  
+
 2.  
+
 3.  
 
 ### Notas: {.unnumbered}
@@ -232,13 +248,17 @@
 ### Ingredientes: {.unnumbered}
 
 -   
+
 -   
+
 -   
 
 ### Preparação: {.unnumbered}
 
 1.  
+
 2.  
+
 3.  
 
 ### Notas: {.unnumbered}

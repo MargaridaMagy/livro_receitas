@@ -32,7 +32,7 @@
 5.  Misturar tudo, temperar com o sumo de limão, sal e azeite.
 6.  Servir de imediato ou conservar no frigorífico (2 dias).
 
-## Húmus de Beterraba
+## Húmus de Beterraba {.unnumbered}
 
 **Fonte:** Gastrotecnia
 
@@ -60,7 +60,7 @@
 2.  Triture a mistura com varinha mágica na velocidade máxima até obter consistência de pasta.
 3.  Servir de imediato ou conservar no frigorífico (2 dias).
 
-## Húmus de Pimentos
+## Húmus de Pimentos {.unnumbered}
 
 **Fonte:** Gastrotecnia
 

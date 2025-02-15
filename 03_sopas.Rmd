@@ -94,7 +94,9 @@
 ### Preparação: {.unnumbered}
 
 1.  
+
 2.  
+
 3.  
 
 ### Notas: {.unnumbered}
@@ -105,7 +107,7 @@
 
 **Fonte:** [Made by Choices](https://madebychoices.pt/sopa-de-abobora-cremosa/)
 
-{Foto}
+![](https://static.madebychoices.pt/wp-content/uploads/2022/09/sopa-de-abobora1-150x150.jpg)
 
 **Tempo:** 25 mins
 
@@ -144,7 +146,7 @@
 
 **Fonte:** [Made by Choices](https://madebychoices.pt/sopa-de-ervilhas-com-legumes/)
 
-{Foto}
+![](https://static.madebychoices.pt/wp-content/uploads/2018/02/sopa-ervilhas-6-300x300.jpg)
 
 **Tempo:** 25 mins
 
@@ -185,7 +187,7 @@
 
 **Fonte:** [Made by Choices](https://madebychoices.pt/sopa-de-espinafres-cremosa/)
 
-{Foto}
+![](https://static.madebychoices.pt/wp-content/uploads/2019/01/sopa-de-espinafres--150x150.jpg)
 
 **Tempo:** 25 mins
 
@@ -226,7 +228,7 @@
 
 **Fonte:** [Made by Choices](https://madebychoices.pt/sopa-de-gengibre-abobora-e-batata-doce/)
 
-{Foto}
+![](https://static.madebychoices.pt/wp-content/uploads/2016/12/sopa-gengibre-150x150.jpg)
 
 **Tempo:** 30 mins
 

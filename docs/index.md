@@ -1,7 +1,7 @@
 ---
 title: "Livro de Receitas"
 author: "Margarida Máximo"
-date: "2025-02-07"
+date: "2025-02-15"
 site: bookdown::bookdown_site
 documentclass: book
 link-citations: yes
