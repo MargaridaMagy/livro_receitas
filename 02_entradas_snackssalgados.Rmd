@@ -84,7 +84,7 @@
 -   ½ c. chá pimentão doce
 -   q.b. pimenta preta
 
-### Preparação {.unnumbered}
+### Preparaçã {.unnumbered}
 
 1.  Lavar bem o pimento e descascar os dentes de alho.
 2.  Num tabuleiro de forno, dispor o pimento cortado em quartos e os dentes de alho.
@@ -94,37 +94,3 @@
 6.  Num recipiente, junte o grão-de-bico, o sumo do limão, o pimento assado e os dentes de alho (assados), o pimentão doce e a pimenta preta.
 7.  Triture a mistura com varinha mágica na velocidade máxima até obter consistência de pasta.
 8.  Servir de imediato ou conservar no frigorífico (2 dias).
-
-## Modelo Receita {.unnumbered}
-
-**Fonte:**
-
-{Foto}
-
-**Tempo:**
-
-**Porções:**
-
-**Dificuldade:**
-
-**Avaliação:**
-
-### Ingredientes {.unnumbered}
-
--   
-
--   
-
--   
-
-### Preparação {.unnumbered}
-
-1.  
-
-2.  
-
-3.  
-
-### Notas {.unnumbered}
-
-1.  

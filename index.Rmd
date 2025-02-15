@@ -28,7 +28,7 @@ Abaixo encontra-se o modelo de receita que deve ser copiado e colado.
 
 **Avaliação:**
 
-### Ingredientes {.unnumbered}
+### Ingredientes {-#ing-receita}
 
 -   
 
@@ -36,7 +36,7 @@ Abaixo encontra-se o modelo de receita que deve ser copiado e colado.
 
 -   
 
-### Preparação {.unnumbered}
+### Preparação {-#prep-receita}
 
 1.  
 
@@ -44,6 +44,6 @@ Abaixo encontra-se o modelo de receita que deve ser copiado e colado.
 
 3.  
 
-### Notas {.unnumbered}
+### Notas {-#nota-receita}
 
 1.  

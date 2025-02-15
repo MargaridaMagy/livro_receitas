@@ -14,7 +14,7 @@
 
 **Avaliação:**
 
-### Ingredientes {.unnumbered}
+### Ingredientes {-}
 
 -   400 g batata
 -   Meia couve-flor
@@ -25,7 +25,7 @@
 -   Meia C. chá Sal
 -   20 g Azeite
 
-### Preparação {.unnumbered}
+### Preparação {-}
 
 1.  Colocar todos os ingredientes descascados, lavados e cortados em cubos numa panela.
 2.  Cobrir com água, deixar ferver e cozinhar os legumes.
@@ -46,7 +46,7 @@
 
 **Avaliação:**
 
-### Ingredientes {.unnumbered}
+### Ingredientes {-}
 
 -   200g Courgette
 -   200 g Nabo
@@ -58,7 +58,7 @@
 -   Meia C. chá Sal
 -   20 g Azeite
 
-### Preparação {.unnumbered}
+### Preparação {-}
 
 1.  Colocar todos os ingredientes descascados, lavados e cortados em cubos numa panela.
 2.  Cobrir com água, deixar ferver e cozinhar os legumes.
@@ -79,7 +79,7 @@
 
 **Avaliação:**
 
-### Ingredientes {.unnumbered}
+### Ingredientes {-}
 
 -   400 g batata
 -   ½ couve-flor
@@ -91,7 +91,7 @@
 -   ½ colher de chá Sal
 -   20 g de Azeite
 
-### Preparação {.unnumbered}
+### Preparação {-}
 
 1.  
 
@@ -113,7 +113,7 @@
 
 **Avaliação:**
 
-### Ingredientes {.unnumbered}
+### Ingredientes {-}
 
 -   700 g abóbora
 -   200 g grão-de-bico já cozido
@@ -124,7 +124,7 @@
 -   Sal a gosto
 -   Pimenta a gosto
 
-### Preparação {.unnumbered}
+### Preparação {-}
 
 1.  Começar por descascar a abóbora. Descartar as sementes e cortar a abóbora em cubos.
 2.  Retirar a pele da cebola e dos dentes de alho. Cortar grosseiramente.
@@ -150,7 +150,7 @@
 
 **Avaliação:**
 
-### Ingredientes {.unnumbered}
+### Ingredientes {-}
 
 -   500 g de ervilhas
 -   150 g de brócolos
@@ -163,7 +163,7 @@
 -   Água q.b para submergir os vegetais
 -   Fio de azeite
 
-### Preparação {.unnumbered}
+### Preparação {-}
 
 1.  Cortar os brócolos, e os dentes de alho grosseiramente.
 2.  Descascar as cebolas, as cenouras e a batata-doce. Cortar em cubos.
@@ -187,7 +187,7 @@
 
 **Avaliação:**
 
-### Ingredientes {.unnumbered}
+### Ingredientes {-}
 
 -   4 mãos cheias de folhas de espinafre uso baby
 -   300 g de brócolos
@@ -199,7 +199,7 @@
 -   Sal marinho a gosto
 -   Azeite a gosto
 
-### Preparação {.unnumbered}
+### Preparação {-}
 
 1.  Descascar e lavar a batata doce, a cebola e os alhos. Cortar em pedaços.
 2.  Lavar os brócolos, as folhas de espinafres e o alho francês. Cortar os brócolos em pedaços mais pequenos e o alho francês em rodelas. Reservar as folhas de espina-fres.
@@ -224,7 +224,7 @@
 
 **Avaliação:**
 
-### Ingredientes {.unnumbered}
+### Ingredientes {-}
 
 -   2 c. sopa azeite
 -   2 cebolas
@@ -239,7 +239,7 @@
 -   Pitada sal grosso
 -   150 ml sumo de laranja
 
-### Preparação {.unnumbered}
+### Preparação {-}
 
 1.  Começar por descascar: as cebolas, os dentes de alho, a batata-doce e a abóbora
 2.  Picar as cebolas, esmagar os dentes de alho, cortar a batata-doce em cubos, a abóbora em cubos e o alho francês em rodelas
@@ -269,7 +269,7 @@
 
 **Avaliação:**
 
-### Ingredientes {.unnumbered}
+### Ingredientes {-}
 
 -   3 batatas médias (cerca de 400g)
 -   2 cenouras
@@ -299,37 +299,3 @@
 7.  Mexa bem e retire do lume;
 
 8.  Adicione os espinafres/agrião (irão cozinhar no calor residual).
-
-## Modelo Receita {.unnumbered}
-
-**Fonte:**
-
-{Foto}
-
-**Tempo:**
-
-**Porções:**
-
-**Dificuldade:**
-
-**Avaliação:**
-
-### Ingredientes {.unnumbered}
-
--   
-
--   
-
--   
-
-### Preparação {.unnumbered}
-
-1.  
-
-2.  
-
-3.  
-
-### Notas {.unnumbered}
-
-1.  
