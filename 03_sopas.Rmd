@@ -14,7 +14,7 @@
 
 **Avaliação:**
 
-### Ingredientes: {.unnumbered}
+### Ingredientes {.unnumbered}
 
 -   400 g batata
 -   Meia couve-flor
@@ -25,7 +25,7 @@
 -   Meia C. chá Sal
 -   20 g Azeite
 
-### Preparação: {.unnumbered}
+### Preparação {.unnumbered}
 
 1.  Colocar todos os ingredientes descascados, lavados e cortados em cubos numa panela.
 2.  Cobrir com água, deixar ferver e cozinhar os legumes.
@@ -46,7 +46,7 @@
 
 **Avaliação:**
 
-### Ingredientes: {.unnumbered}
+### Ingredientes {.unnumbered}
 
 -   200g Courgette
 -   200 g Nabo
@@ -58,7 +58,7 @@
 -   Meia C. chá Sal
 -   20 g Azeite
 
-### Preparação: {.unnumbered}
+### Preparação {.unnumbered}
 
 1.  Colocar todos os ingredientes descascados, lavados e cortados em cubos numa panela.
 2.  Cobrir com água, deixar ferver e cozinhar os legumes.
@@ -79,7 +79,7 @@
 
 **Avaliação:**
 
-### Ingredientes: {.unnumbered}
+### Ingredientes {.unnumbered}
 
 -   400 g batata
 -   ½ couve-flor
@@ -91,17 +91,13 @@
 -   ½ colher de chá Sal
 -   20 g de Azeite
 
-### Preparação: {.unnumbered}
+### Preparação {.unnumbered}
 
 1.  
 
 2.  
 
 3.  
-
-### Notas: {.unnumbered}
-
-1.  
 
 ## Sopa de Abóbora Cremosa {.unnumbered}
 
@@ -117,7 +113,7 @@
 
 **Avaliação:**
 
-### Ingredientes: {.unnumbered}
+### Ingredientes {.unnumbered}
 
 -   700 g abóbora
 -   200 g grão-de-bico já cozido
@@ -128,7 +124,7 @@
 -   Sal a gosto
 -   Pimenta a gosto
 
-### Preparação: {.unnumbered}
+### Preparação {.unnumbered}
 
 1.  Começar por descascar a abóbora. Descartar as sementes e cortar a abóbora em cubos.
 2.  Retirar a pele da cebola e dos dentes de alho. Cortar grosseiramente.
@@ -138,9 +134,7 @@
 6.  Temperar com sal e uma pitada de pimenta.
 7.  Servir com um fio de azeite, grão-de-bico, sementes de cânhamo e coentros pica-dos.
 
-### Notas: {.unnumbered}
-
-1.  
+ 
 
 ## Sopa de Ervilhas com Legumes {.unnumbered}
 
@@ -156,7 +150,7 @@
 
 **Avaliação:**
 
-### Ingredientes: {.unnumbered}
+### Ingredientes {.unnumbered}
 
 -   500 g de ervilhas
 -   150 g de brócolos
@@ -169,7 +163,7 @@
 -   Água q.b para submergir os vegetais
 -   Fio de azeite
 
-### Preparação: {.unnumbered}
+### Preparação {.unnumbered}
 
 1.  Cortar os brócolos, e os dentes de alho grosseiramente.
 2.  Descascar as cebolas, as cenouras e a batata-doce. Cortar em cubos.
@@ -178,10 +172,6 @@
 5.  Quando começar a ferver reduzir o lume, tapar o tacho e deixar cozinhar por 15 a 20 minutos.
 6.  Quando todos os vegetais estiverem cozinhados triturar com uma varinha mágica ou no processador de alimentos.
 7.  Temperar com sal e um fio de azeite.
-
-### Notas: {.unnumbered}
-
-1.  
 
 ## Sopa de Espinfres {.unnumbered}
 
@@ -197,7 +187,7 @@
 
 **Avaliação:**
 
-### Ingredientes: {.unnumbered}
+### Ingredientes {.unnumbered}
 
 -   4 mãos cheias de folhas de espinafre uso baby
 -   300 g de brócolos
@@ -209,7 +199,7 @@
 -   Sal marinho a gosto
 -   Azeite a gosto
 
-### Preparação: {.unnumbered}
+### Preparação {.unnumbered}
 
 1.  Descascar e lavar a batata doce, a cebola e os alhos. Cortar em pedaços.
 2.  Lavar os brócolos, as folhas de espinafres e o alho francês. Cortar os brócolos em pedaços mais pequenos e o alho francês em rodelas. Reservar as folhas de espina-fres.
@@ -219,10 +209,6 @@
 6.  Triturar a sopa com uma varinha mágica ou processador de alimentos até virar um creme aveludado.
 7.  Retificar a quantidade de água se necessário.
 8.  Servir quente com um fio de azeite.
-
-### Notas: {.unnumbered}
-
-1.  
 
 ## Sopa de Gengibre, Abóbora e Batata-Doce {.unnumbered}
 
@@ -238,7 +224,7 @@
 
 **Avaliação:**
 
-### Ingredientes: {.unnumbered}
+### Ingredientes {.unnumbered}
 
 -   2 c. sopa azeite
 -   2 cebolas
@@ -253,7 +239,7 @@
 -   Pitada sal grosso
 -   150 ml sumo de laranja
 
-### Preparação: {.unnumbered}
+### Preparação {.unnumbered}
 
 1.  Começar por descascar: as cebolas, os dentes de alho, a batata-doce e a abóbora
 2.  Picar as cebolas, esmagar os dentes de alho, cortar a batata-doce em cubos, a abóbora em cubos e o alho francês em rodelas
@@ -265,7 +251,7 @@
 8.  Triturar tudo com um processador de alimentos ou com uma varinha mágica. Juntar o sumo de laranja e retificar os temperos.
 9.  Servir ainda quente com sementes de abóbora, coentros e leite de coco.
 
-### Notas: {.unnumbered}
+### Notas {.unnumbered}
 
 1.  Em vez de água podem substituir por 2 chávenas de leite vegetal que fica mais cremoso.
 
@@ -283,7 +269,7 @@
 
 **Avaliação:**
 
-### Ingredientes: {.unnumbered}
+### Ingredientes {.unnumbered}
 
 -   3 batatas médias (cerca de 400g)
 -   2 cenouras
@@ -296,7 +282,7 @@
 -   2 l água (ou o suficiente para cobrir os legumes)
 -   150 g espinafres/agrião
 
-### Preparação: {.unnumbered}
+### Preparação {.unnumbered}
 
 1.  Descasque e corte os legumes em pedaços pequenos (se utilizar a couve-flor, pode manter o talo);
 
@@ -314,10 +300,6 @@
 
 8.  Adicione os espinafres/agrião (irão cozinhar no calor residual).
 
-### Notas: {.unnumbered}
-
-1.  
-
 ## Modelo Receita {.unnumbered}
 
 **Fonte:**
@@ -332,7 +314,7 @@
 
 **Avaliação:**
 
-### Ingredientes: {.unnumbered}
+### Ingredientes {.unnumbered}
 
 -   
 
@@ -340,7 +322,7 @@
 
 -   
 
-### Preparação: {.unnumbered}
+### Preparação {.unnumbered}
 
 1.  
 
@@ -348,6 +330,6 @@
 
 3.  
 
-### Notas: {.unnumbered}
+### Notas {.unnumbered}
 
 1.  

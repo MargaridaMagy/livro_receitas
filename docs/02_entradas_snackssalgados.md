@@ -14,7 +14,7 @@
 
 **Avaliação:**
 
-### Ingredientes: {.unnumbered}
+### Ingredientes {.unnumbered}
 
 -   1 abacate maduro
 -   1 tomate
@@ -23,7 +23,7 @@
 -   1 c. café rasa sal
 -   1 c. sobremesa azeite
 
-### Preparação: {.unnumbered}
+### Preparação {.unnumbered}
 
 1.  Cortar o abacate ao meio e com uma colher retirar toda sua polpa e descartar a semente.
 2.  Colocar esta polpa numa tigela grande e esmagar com um garfo. Reservar.
@@ -46,7 +46,7 @@
 
 **Avaliação:**
 
-### Ingredientes: {.unnumbered}
+### Ingredientes {.unnumbered}
 
 -   200 g grão-de-bico já cozido
 -   1 beterraba já cozida
@@ -54,7 +54,7 @@
 -   10 g Azeite
 -   q.b. pimenta preta
 
-### Preparação: {.unnumbered}
+### Preparação {.unnumbered}
 
 1.  Num recipiente, junte o grão-de-bico, a beterraba, o azeite, o dente de alho (cru) e a pimenta preta.
 2.  Triture a mistura com varinha mágica na velocidade máxima até obter consistência de pasta.
@@ -74,7 +74,7 @@
 
 **Avaliação:**
 
-### Ingredientes: {.unnumbered}
+### Ingredientes {.unnumbered}
 
 -   200 g grão-de-bico já cozido
 -   1 pimento vermelho
@@ -84,7 +84,7 @@
 -   ½ c. chá pimentão doce
 -   q.b. pimenta preta
 
-### Preparação: {.unnumbered}
+### Preparação {.unnumbered}
 
 1.  Lavar bem o pimento e descascar os dentes de alho.
 2.  Num tabuleiro de forno, dispor o pimento cortado em quartos e os dentes de alho.
@@ -109,7 +109,7 @@
 
 **Avaliação:**
 
-### Ingredientes: {.unnumbered}
+### Ingredientes {.unnumbered}
 
 -   
 
@@ -117,7 +117,7 @@
 
 -   
 
-### Preparação: {.unnumbered}
+### Preparação {.unnumbered}
 
 1.  
 
@@ -125,142 +125,6 @@
 
 3.  
 
-### Notas: {.unnumbered}
-
-1.  
-
-## Modelo Receita {.unnumbered}
-
-**Fonte:**
-
-{Foto}
-
-**Tempo:**
-
-**Porções:**
-
-**Dificuldade:**
-
-**Avaliação:**
-
-### Ingredientes: {.unnumbered}
-
--   
-
--   
-
--   
-
-### Preparação: {.unnumbered}
-
-1.  
-
-2.  
-
-3.  
-
-### Notas: {.unnumbered}
-
-1.  
-
-## Modelo Receita {.unnumbered}
-
-**Fonte:**
-
-{Foto}
-
-**Tempo:**
-
-**Porções:**
-
-**Dificuldade:**
-
-**Avaliação:**
-
-### Ingredientes: {.unnumbered}
-
--   
-
--   
-
--   
-
-### Preparação: {.unnumbered}
-
-1.  
-
-2.  
-
-3.  
-
-### Notas: {.unnumbered}
-
-1.  
-
-## Modelo Receita {.unnumbered}
-
-**Fonte:**
-
-{Foto}
-
-**Tempo:**
-
-**Porções:**
-
-**Dificuldade:**
-
-**Avaliação:**
-
-### Ingredientes: {.unnumbered}
-
--   
-
--   
-
--   
-
-### Preparação: {.unnumbered}
-
-1.  
-
-2.  
-
-3.  
-
-### Notas: {.unnumbered}
-
-1.  
-
-## Modelo Receita {.unnumbered}
-
-**Fonte:**
-
-{Foto}
-
-**Tempo:**
-
-**Porções:**
-
-**Dificuldade:**
-
-**Avaliação:**
-
-### Ingredientes: {.unnumbered}
-
--   
-
--   
-
--   
-
-### Preparação: {.unnumbered}
-
-1.  
-
-2.  
-
-3.  
-
-### Notas: {.unnumbered}
+### Notas {.unnumbered}
 
 1.  
