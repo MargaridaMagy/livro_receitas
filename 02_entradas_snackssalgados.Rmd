@@ -84,7 +84,7 @@
 -   ½ c. chá pimentão doce
 -   q.b. pimenta preta
 
-### Preparaçã {.unnumbered}
+### Preparação {.unnumbered}
 
 1.  Lavar bem o pimento e descascar os dentes de alho.
 2.  Num tabuleiro de forno, dispor o pimento cortado em quartos e os dentes de alho.

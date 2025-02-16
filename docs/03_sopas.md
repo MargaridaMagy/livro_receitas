@@ -14,7 +14,7 @@
 
 **Avaliação:**
 
-### Ingredientes {-}
+### Ingredientes {.unnumbered}
 
 -   400 g batata
 -   Meia couve-flor
@@ -25,7 +25,7 @@
 -   Meia C. chá Sal
 -   20 g Azeite
 
-### Preparação {-}
+### Preparação {.unnumbered}
 
 1.  Colocar todos os ingredientes descascados, lavados e cortados em cubos numa panela.
 2.  Cobrir com água, deixar ferver e cozinhar os legumes.
@@ -46,7 +46,7 @@
 
 **Avaliação:**
 
-### Ingredientes {-}
+### Ingredientes {.unnumbered}
 
 -   200g Courgette
 -   200 g Nabo
@@ -58,7 +58,7 @@
 -   Meia C. chá Sal
 -   20 g Azeite
 
-### Preparação {-}
+### Preparação {.unnumbered}
 
 1.  Colocar todos os ingredientes descascados, lavados e cortados em cubos numa panela.
 2.  Cobrir com água, deixar ferver e cozinhar os legumes.
@@ -79,7 +79,7 @@
 
 **Avaliação:**
 
-### Ingredientes {-}
+### Ingredientes {.unnumbered}
 
 -   400 g batata
 -   ½ couve-flor
@@ -91,7 +91,7 @@
 -   ½ colher de chá Sal
 -   20 g de Azeite
 
-### Preparação {-}
+### Preparação {.unnumbered}
 
 1.  
 
@@ -113,7 +113,7 @@
 
 **Avaliação:**
 
-### Ingredientes {-}
+### Ingredientes {.unnumbered}
 
 -   700 g abóbora
 -   200 g grão-de-bico já cozido
@@ -124,7 +124,7 @@
 -   Sal a gosto
 -   Pimenta a gosto
 
-### Preparação {-}
+### Preparação {.unnumbered}
 
 1.  Começar por descascar a abóbora. Descartar as sementes e cortar a abóbora em cubos.
 2.  Retirar a pele da cebola e dos dentes de alho. Cortar grosseiramente.
@@ -133,8 +133,6 @@
 5.  Com uma varinha mágica ou num processador de alimentos triturar a sopa até virar um creme homogéneo.
 6.  Temperar com sal e uma pitada de pimenta.
 7.  Servir com um fio de azeite, grão-de-bico, sementes de cânhamo e coentros pica-dos.
-
- 
 
 ## Sopa de Ervilhas com Legumes {.unnumbered}
 
@@ -150,7 +148,7 @@
 
 **Avaliação:**
 
-### Ingredientes {-}
+### Ingredientes {.unnumbered}
 
 -   500 g de ervilhas
 -   150 g de brócolos
@@ -163,7 +161,7 @@
 -   Água q.b para submergir os vegetais
 -   Fio de azeite
 
-### Preparação {-}
+### Preparação {.unnumbered}
 
 1.  Cortar os brócolos, e os dentes de alho grosseiramente.
 2.  Descascar as cebolas, as cenouras e a batata-doce. Cortar em cubos.
@@ -187,7 +185,7 @@
 
 **Avaliação:**
 
-### Ingredientes {-}
+### Ingredientes {.unnumbered}
 
 -   4 mãos cheias de folhas de espinafre uso baby
 -   300 g de brócolos
@@ -199,7 +197,7 @@
 -   Sal marinho a gosto
 -   Azeite a gosto
 
-### Preparação {-}
+### Preparação {.unnumbered}
 
 1.  Descascar e lavar a batata doce, a cebola e os alhos. Cortar em pedaços.
 2.  Lavar os brócolos, as folhas de espinafres e o alho francês. Cortar os brócolos em pedaços mais pequenos e o alho francês em rodelas. Reservar as folhas de espina-fres.
@@ -224,7 +222,7 @@
 
 **Avaliação:**
 
-### Ingredientes {-}
+### Ingredientes {.unnumbered}
 
 -   2 c. sopa azeite
 -   2 cebolas
@@ -239,7 +237,7 @@
 -   Pitada sal grosso
 -   150 ml sumo de laranja
 
-### Preparação {-}
+### Preparação {.unnumbered}
 
 1.  Começar por descascar: as cebolas, os dentes de alho, a batata-doce e a abóbora
 2.  Picar as cebolas, esmagar os dentes de alho, cortar a batata-doce em cubos, a abóbora em cubos e o alho francês em rodelas
@@ -269,7 +267,7 @@
 
 **Avaliação:**
 
-### Ingredientes {-}
+### Ingredientes {.unnumbered}
 
 -   3 batatas médias (cerca de 400g)
 -   2 cenouras
@@ -285,17 +283,128 @@
 ### Preparação {.unnumbered}
 
 1.  Descasque e corte os legumes em pedaços pequenos (se utilizar a couve-flor, pode manter o talo);
-
 2.  Lave bem os legumes; coloque todos os legumes (exceto os dentes de alho) numa panela e cubra-os com a água;
-
 3.  Deixe cozer em lume médio durante 20 - 25 minutos, ou até que os legumes este-jam macios;
-
 4.  Adicione os dentes de alho;
-
 5.  Triture os legumes, com o auxílio de uma varinha mágica/processador de alimentos, até obter um creme (cerca de 5 minutos);
-
 6.  Tempere com o sal e azeite;
-
 7.  Mexa bem e retire do lume;
-
 8.  Adicione os espinafres/agrião (irão cozinhar no calor residual).
+
+## Sopa de Legumes Básica {.unnumbered}
+
+**Fonte:** [Made by Choices](https://madebychoices.pt/sopa-de-legumes-basica/)
+
+![](https://static.madebychoices.pt/wp-content/uploads/2018/02/sopa-de-legumes-2-150x150.jpg)
+
+**Tempo:** 35 mins
+
+**Porções:** 6
+
+**Dificuldade:**
+
+**Avaliação:**
+
+### Ingredientes {.unnumbered}
+
+-   1 couve-flor
+-   4 cenouras
+-   1 talo de alho francês
+-   1 cebola grande
+-   2 dentes de alho
+-   Água suficiente para cobrir os vegetais
+-   Pitada de sal marinho integral
+-   Fio de azeite
+-   400 g de espinafres
+-   2 cenouras para cortar em cubinhos
+
+### Preparação {.unnumbered}
+
+1.  Cortar os vegetais: a couve-flor em pedaços (podemos usar o talo), descascar as cenouras (se forem biológicas podemos usar a casca) e cortar em rodelas. O alho francês em rodelas.
+2.  Descascar as cebolas, os dentes de alho e cortar grosseiramente em cubos.
+3.  Lavar todos os vegetais.
+4.  Cortar 1 ou 2 cenouras em cubinhos.
+5.  Num tacho colocar todos os vegetais já devidamente cortados e lavados e cobrir com água.
+6.  Deixe cozer em lume médio. Cozinhar (ao vapor) as cenouras em cubinhos.
+7.  Quando a água começar a ferver deixar cozinhar por 15 a 20 minutos.
+8.  Tempere com sal a gosto e triturar tudo até virar um creme (pode ser com uma va-rinha mágica ou processador de alimentos).
+9.  Retificar o sal.
+10. Juntar as cenouras em cubinhos.
+11. Lavar e juntar os espinafres à sopa. Nesta fase não é preciso usar o lume, pois o calor residual da sopa vai cozinhar os espinafres.
+12. Servir com um fio de azeite.
+
+## Sopa de Legumes sem Batata
+
+**Fonte:** Gastrotecnia
+
+{Foto}
+
+**Tempo:**
+
+**Porções:**
+
+**Dificuldade:**
+
+**Avaliação:**
+
+### Ingredientes {.unnumbered}
+
+-   1 couve-flor (ou 2 curgetes (sem casca)
+-   3 cenouras
+-   1 cebola grande
+-   2 dentes alho
+-   1 alho francês (sem rama)
+-   5 g sal
+-   20 g azeite
+-   2 l água (ou o suficiente para cobrir os legumes)
+-   150 g espinafres/agrião
+
+### Preparação {.unnumbered}
+
+1.  Descasque e corte os legumes em pedaços pequenos (se utilizar a couve-flor, pode manter o talo);
+2.  Lave bem os legumes;
+3.  Coloque todos os legumes (exceto os dentes de alho) numa panela e cubra-os com a água;
+4.  Deixe cozer em lume médio durante 20 - 25 minutos, ou até que os legumes este-jam macios;
+5.  Adicione os dentes de alho;
+6.  Triture os legumes, com o auxílio de uma varinha mágica/processador de alimentos, até obter um creme (cerca de 5 minutos);
+7.  Tempere com o sal e azeite;
+8.  Mexa bem e retire do lume;
+9.  Adicione os espinafres/agrião (irão cozinhar no calor residual).
+
+## Sopa sem Batata (Creme de Legumes)
+
+**Fonte:** Gastrotecnia
+
+{Foto}
+
+**Tempo:**
+
+**Porções:**
+
+**Dificuldade:**
+
+**Avaliação:**
+
+### Ingredientes {.unnumbered}
+
+-   200 g courgette
+-   200 g de nabo
+-   1/2 couve-flor
+-   2 cenouras
+-   1 talo de alho-francês
+-   1 cebola grande
+-   2 dentes de alho
+-   Água suficiente para cobrir os vegetais
+-   ½ colher de chá Sal
+
+### Preparação {.unnumbered}
+
+1.  
+
+2.  
+
+3.  
+
+### Notas {.unnumbered}
+
+1.  

@@ -1,7 +1,7 @@
 ---
 title: "Livro de Receitas"
 author: "Margarida Máximo"
-date: "2025-02-15"
+date: "2025-02-16"
 site: bookdown::bookdown_site
 documentclass: book
 link-citations: yes
@@ -28,7 +28,7 @@ Abaixo encontra-se o modelo de receita que deve ser copiado e colado.
 
 **Avaliação:**
 
-### Ingredientes {-#ing-receita}
+### Ingredientes {-}
 
 -   
 
@@ -36,7 +36,7 @@ Abaixo encontra-se o modelo de receita que deve ser copiado e colado.
 
 -   
 
-### Preparação {-#prep-receita}
+### Preparação {-}
 
 1.  
 
@@ -44,6 +44,6 @@ Abaixo encontra-se o modelo de receita que deve ser copiado e colado.
 
 3.  
 
-### Notas {-#nota-receita}
+### Notas {-}
 
 1.  
